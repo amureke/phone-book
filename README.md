@@ -18,7 +18,7 @@ Node.js and MySQL installed
 1. Clone the repo:
 
 ```
-$ git clone https://github.com/amureke/phone-book-app.git
+$ git clone https://github.com/amureke/phone-book.git
 ```
 
 2. Install server-side dependencies:
