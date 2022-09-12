@@ -47,7 +47,7 @@ $ cd ..
 $ npm run start
 ```
 
-The application should now run on <code>localhost:3000</code>
+The application should now run on <code>localhost:5000</code>
 
 ## Tech Stack
 
