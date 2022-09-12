@@ -40,14 +40,20 @@ $ npm install
 $ npm run build
 ```
 
-5. Run the app:
+5. Compile the typescript:
 
 ```
 $ cd ..
+$ tsc
+```
+
+6. Run the app:
+
+```
 $ npm run start
 ```
 
-The application should now run on <code>localhost:3000</code>
+The application should now run on <code>localhost:5000</code>
 
 ## Tech Stack
 
